@@ -269,7 +269,7 @@ section .title::after{
 .knowledge .title::after,
 .teams .title::after{
     background: #111;
-    content: "Knowledge Contain";
+    content: "Knowledge-Contain";
 }
 .knowledge .knowledge-content .card{
     width: calc(33% - 20px);
@@ -306,7 +306,7 @@ section .title::after{
 /* skills section styling */
 
 .skills .title::after{
-    content: "Skills and Achievement/Certification";
+    content: "Skills Contains";
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
