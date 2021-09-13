@@ -269,7 +269,7 @@ section .title::after{
 .knowledge .title::after,
 .Project .title::after{
     background: #111;
-    content: "Knowledge-Contain";
+    content: "Knowledge";
 }
 .knowledge .knowledge-content .card{
     width: calc(33% - 20px);
@@ -620,7 +620,7 @@ footer span a:hover{
         flex: 100%;
     }
     .knowledge .knowledge-content .card{
-        width: calc(50% - 3px);
+        width: calc(50% - 10px);
         margin-bottom: 20px;
     }
     .skills .skills-content .column,
