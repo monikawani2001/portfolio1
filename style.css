@@ -263,11 +263,11 @@ section .title::after{
     background: #111;
 }
 .knowledge .title::before,
-.teams .title::before{
+.Project .title::before{
     background: #fff;
 }
 .knowledge .title::after,
-.teams .title::after{
+.Project .title::after{
     background: #111;
     content: "Knowledge-Contain";
 }
