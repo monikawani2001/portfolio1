@@ -269,7 +269,7 @@ section .title::after{
 .knowledge .title::after,
 .teams .title::after{
     background: #111;
-    content: "what i provide";
+    content: "Knowledge Contain";
 }
 .knowledge .knowledge-content .card{
     width: calc(33% - 20px);
