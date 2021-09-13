@@ -306,7 +306,7 @@ section .title::after{
 /* skills section styling */
 
 .skills .title::after{
-    content: "Skills and Achievement/Certificatio";
+    content: "Skills and Achievement/Certification";
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
@@ -626,7 +626,7 @@ footer span a:hover{
     .skills .skills-content .column,
     .contact .contact-content .column{
         width: 100%;
-        margin-bottom: 35px;
+        margin-bottom: 20px;
     }
 }
 
@@ -657,7 +657,7 @@ footer span a:hover{
     }
     .about .about-content .right .text,
     .skills .skills-content .left .text{
-        font-size: 19px;
+        font-size: 12px;
     }
     .contact .right form .fields{
         flex-direction: column;
