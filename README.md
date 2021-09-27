@@ -6,5 +6,7 @@
 ![saline](https://user-images.githubusercontent.com/90501534/133086577-004de836-f6cb-42b9-a3c4-a242241332b3.jpg)
 ![mech](https://user-images.githubusercontent.com/90501534/133086595-141d857a-4daa-41bd-9f1c-2506b547abc8.jpg)
 ![web](https://user-images.githubusercontent.com/90501534/133087888-02f47e63-d57a-41b2-9338-400f3c27a0d9.jpg)
+[CV_MonikaWani.pdf](https://github.com/monikawani2001/portfolio1/files/7234434/CV_MonikaWani.pdf)
+
 
 
